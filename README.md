@@ -1,6 +1,6 @@
 # Hi, I’m Josep 🙋 Nice to meet you!
 
-I’m a Full Stack Developer, graduated from the Ironhack Web Development Bootcamp. Here you’ll find the projects I’ve been working on; any feedback is appreciated 😉
+I’m a Full Stack Developer, graduated from the Ironhack Web Development Bootcamp. Here you’ll find the projects I’ve been working on; any feedback is appreciated.
 
 ## Technologies
 
