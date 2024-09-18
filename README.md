@@ -1,6 +1,6 @@
 # Hi, I’m Josep 🙋 Nice to meet you!
 
-I’m a Full Stack Developer, graduated from the Ironhack Web Development Bootcamp. Here you’ll find the projects I’ve been working on; any feedback is appreciated.
+I’m a Full Stack Developer, graduated from the <a href="https://www.linkedin.com/in/josep-climent/overlay/1714041512730/single-media-viewer/?profileId=ACoAABFzqFkBBkN_h4YZvzL9-mVwIpnib9UmJos">Ironhack Web Development Bootcamp</a>. Here you’ll find the projects I’ve been working on; any feedback is appreciated.
 
 ## Technologies
 
